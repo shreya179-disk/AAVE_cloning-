@@ -64,3 +64,5 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+DEPOSIT COLLATERAL ETH/WETH
+BORROW ANOTHER ASSET - DAI
